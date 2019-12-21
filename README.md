@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 ### Webapp Demo
-![demo](./demo.PNNG)
+![demo](demo.PNNG)
